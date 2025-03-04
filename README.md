@@ -1,6 +1,6 @@
 # Questions and Answers to help you Prepare for a job interview for the position of DevOps Engineer (2024)
 
-This Project repository contains a collection of questions and answers for DevOps interviews. The questions are based on common DevOps concepts, tools, and technologies. The answers are comprehensive and informative, and they are written in a clear and concise style.
+This Project repository contains a collection of Questions and Answers for DevOps interviews. The questions are based on common DevOps concepts, tools, and technologies. The answers are comprehensive and informative, and they are written in a clear and concise style.
 
 The purpose of this repository is to provide a valuable resource for anyone who is preparing for a DevOps interview. The questions and answers in this repository can help you to:
 
